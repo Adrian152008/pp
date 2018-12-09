@@ -1,0 +1,39 @@
+/*NAWIGACJA*/
+.navbar {min-height: 90px;}
+.navbar li {font-size:21px;}
+.navbar-brand{font-size:21px; text-shadow:0px 2px 2px white;}
+
+.navbar-brand i{color: white;}
+
+/*SLAJDER*/
+.carousel-caption{top: 20%}
+.carousel-caption h1{color: white; font-size: 50px; margin-bottom: 30px; text-shadow:0px 3px 1px black;}
+.carousel-caption p{color: white; font-size: 20px; font-weight: bold; text-shadow:0px 3px 1px black;}
+
+
+/*------------------AKTULNOSCI--------------------*/
+
+.container-fluid h1{font-weight: 100; font-size: 70px; margin-bottom: 40px;}
+.offer .card span{font-size: 14px; margin-bottom: 15px;}
+.offer h4 {font-weight: bold;}
+.offer {background-color: white;}
+.offer .card{text-align: left; border: 0px;}
+.offer .card .card-body{background-color: white; }
+.offer .card img{transition: all 0.5s;}
+.offer .card img:hover{transform: scale(0.93);}
+
+/*O NAS*/
+
+.onas{ margin-bottom: 110px;}
+
+/*REDAKCJA*/
+
+.team img{max-height: 370px; max-width: 280px;}
+.team{text-align: center; padding-top: 30px;}
+.team .card{border: none; }
+.team .card i{color: #007bff; font-size: 22px;}
+.team .card i:hover{color: #17a2b8; font-size: 26px; transition: 0,8s;}
+
+/*GUZIKI*/
+
+button{cursor:pointer;}
